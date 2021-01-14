@@ -9,11 +9,11 @@ using ExemploMVC.Models;
 
 namespace ExemploMVC.Controllers
 {
-    public class ProdutoesController : Controller
+    public class ProdutosController : Controller
     {
         private readonly Context _context;
 
-        public ProdutoesController(Context context)
+        public ProdutosController(Context context)
         {
             _context = context;
         }

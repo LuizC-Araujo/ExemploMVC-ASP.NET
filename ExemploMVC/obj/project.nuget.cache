@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwY669UCfeKWkCvEwa+MW0GazVWU9LX7iRir4VPF8W1r49Yo7KDUl4SgEOksWbRnAdVpU/hrMA5w3ck24MYGjw==",
+  "dgSpecHash": "1K+t7SKI6E4kUQAYH8vPLffDtVlzh1sy5BJ4DecaquUIjvYfwxY4Y8EgdLSeFvTvvOJFVQ+8rMnkl3aNlO/yZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lj133\\source\\repos\\ExemploMVC\\ExemploMVC\\ExemploMVC.csproj",
+  "projectFilePath": "F:\\PROJETOS\\DOTNET\\ExemploMVC-ASP.NET\\ExemploMVC\\ExemploMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lj133\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\lj133\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

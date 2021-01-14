@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lj133\\source\\repos\\ExemploMVC\\ExemploMVC\\ExemploMVC.csproj",
+      "projectUniqueName": "F:\\PROJETOS\\DOTNET\\ExemploMVC-ASP.NET\\ExemploMVC\\ExemploMVC.csproj",
       "projectName": "ExemploMVC",
-      "projectPath": "C:\\Users\\lj133\\source\\repos\\ExemploMVC\\ExemploMVC\\ExemploMVC.csproj",
+      "projectPath": "F:\\PROJETOS\\DOTNET\\ExemploMVC-ASP.NET\\ExemploMVC\\ExemploMVC.csproj",
       "packagesPath": "C:\\Users\\lj133\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lj133\\source\\repos\\ExemploMVC\\ExemploMVC\\obj\\",
+      "outputPath": "F:\\PROJETOS\\DOTNET\\ExemploMVC-ASP.NET\\ExemploMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
